@@ -1,0 +1,16 @@
+Linux Commands Practical
+
+This file will document basic Linux commands used during my cloud computing internship.
+
+Commands to be practised:
+
+1. pwd - Display the current directory.
+2. ls - List files and folders.
+3. cd - Change directory.
+4. mkdir - Create a directory.
+5. touch - Create an empty file.
+6. cp - Copy a file.
+7. mv - Move or rename a file.
+8. rm - Remove a file.
+9. cat - Display file contents.
+10. whoami - Display the current username.
